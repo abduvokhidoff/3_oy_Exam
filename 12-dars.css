@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    background-color: rgb(72, 138, 204);
+    border: 3px solid red;
+    border-radius: 20px;
+}
+.sayt{
+    background-color: yellow;
+}
+.tesla{
+    color: red;
+}
+.mash{
+    color: green;
+}
+.vay{
+    color: red;
+}
+.iks{
+    color: yellow;
+}
+.tri{
+color: green;
+}
+.es{
+color: gray;
+}
+caption{
+    background-color: yellow;
+}
+table{
+    border-collapse: collapse;
+    border-color: white;
+    text-align: center;
+    background-color: darkorchid;
+}
+.zaga{
+    background-color: red;
+}
+.model{
+    background-color: green;
+}
+.inpu_div{
+    gap: 1px;
+}
+button{
+    width: 200px;
+    background: transparent;
+    color: #ccc;
+    border: 1px solid #ccc;
+    outline: none;
+    cursor: pointer;
+    transition: .5s;
+    border-radius: 1rem;
+}
+button:hover{
+    color: #fff;
+    background: green;
+    border: 1px solid green;
+    text-shadow: 0 0 .5rem #fff, 0 0 .1rem #fff, 0 0 .2rem #fff;
+    box-shadow:  0 0 5rem green, 0 0 2rem green, 0 0 5rem green, 0 0 10rem green;
+  }
